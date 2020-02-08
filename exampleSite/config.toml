@@ -61,7 +61,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [params.preloader]
-enable = true
+enable = false
 [params.search]
 enable = true
 [[params.social]]

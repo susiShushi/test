@@ -1,7 +1,7 @@
 ---
-title: 馬蹄事前分布
+title: brmsでhorseshoeによるスパース回帰
 date: 2019-02-02T03:00:00+00:00
-description: This is meta description
+description: par_ratio=p/Dでおわり
 type: post
 image: ''
 categories:

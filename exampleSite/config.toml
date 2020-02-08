@@ -1,9 +1,9 @@
 baseURL = "https://sushishushi.netlify.com/"
 languageCode = "en-us"
-paginate = 6
+paginate = "5"
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa | Personal Blog Template"
+title = "NSブログ"
 [[menu.main]]
 URL = "about"
 name = "About"

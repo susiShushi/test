@@ -1,7 +1,7 @@
 baseURL = "https://sushishushi.netlify.com/"
 languageCode = "en-us"
-paginate = "5"
-summaryLength = "10"
+paginate = "6"
+summaryLength = "0"
 theme = "parsa-hugo"
 title = "NSブログ"
 [[menu.main]]

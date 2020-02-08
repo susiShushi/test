@@ -3,7 +3,7 @@ title: brmsでhorseshoeによるスパース回帰
 date: 2019-02-02T03:00:00+00:00
 description: par_ratio=p/Dでおわり
 type: post
-image: ''
+image: "/images/落書き.png"
 categories:
 - R
 tags:

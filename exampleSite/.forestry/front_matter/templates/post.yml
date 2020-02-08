@@ -17,6 +17,8 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: false
 - name: tags
   type: tag_list
   default: []
